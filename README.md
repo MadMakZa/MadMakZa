@@ -76,8 +76,6 @@ Beyond Android, I write **backend services on Spring Boot and Ktor**, which help
 ## 📫 Get in Touch
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_afonsky)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novo_caine@mail.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadMakZa)
 
 ---
 
